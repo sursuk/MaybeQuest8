@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaybeQuest</string>
+    <string name="title_list">List</string>
+    <string name="title_question">Question</string>
+    <string name="title_maps">Maps</string>
+    <string name="buttonStart">НАЧАТЬ ПРИКЛЮЧЕНИЕ</string>
+    <string name="startText">Выберите город и укажите количество точек маршрута</string>
+
+    <string-array name="town">
+        <item>Кронштадт</item>
+        <item>Санкт-Петербург</item>
+        <item>Выборг</item>
+    </string-array>
+</resources>
